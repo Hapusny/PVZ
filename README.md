@@ -19,7 +19,7 @@
 | :---: | :---: | :---: |
 | ![割草机演示](Gifs/LawnMower.gif) | ![胜利演示](Gifs/WinRes.gif) | ![失败演示](Gifs/LoseRes.gif) |
 
-[![Watch on Bilibili](https://img.shields.io/badge/🎥-观看演示视频-00A1D6?logo=bilibili)]([https://www.bilibili.com/video/BVxxxxxx](https://www.bilibili.com/video/BV1zyAzziEm7?vd_source=84db85feb1b2a05e5e57326727ea8e86))
+**演示视频**：(https://www.bilibili.com/video/BV1zyAzziEm7?vd_source=84db85feb1b2a05e5e57326727ea8e86)
 
 ## 核心功能
 
