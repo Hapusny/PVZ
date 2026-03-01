@@ -34,7 +34,7 @@
 
 ## 技术栈
 
-- **引擎**：Unreal Engine 5.3
+- **引擎**：Unreal Engine 5.4
 - **核心机制**：
   - **DataTable**：植物/僵尸/关卡的静态数据配置。
   - **状态机 (State Machine)**：管理玩家交互状态 (Idle, Planting, Shoveling)。
