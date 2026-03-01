@@ -15,9 +15,9 @@
 | :---: | :---: | :---: | :---: |
 | ![关卡演示](Gifs/Level.gif) | ![种植演示](Gifs/Planting.gif) | ![战斗演示](Gifs/ZombieEat.gif) | ![铲除演示](Gifs/Shovel.gif) |
 
-| 割草机 | 胜利结算 | 失败结算 |  |
-| :---: | :---: | :---: | :---: |
-| ![割草机演示](Gifs/LawnMower.gif) | ![胜利演示](Gifs/WinRes.gif) | ![失败演示](Gifs/LoseRes.gif) |  |
+| 割草机 | 胜利结算 | 失败结算 |
+| :---: | :---: | :---: |
+| ![割草机演示](Gifs/LawnMower.gif) | ![胜利演示](Gifs/WinRes.gif) | ![失败演示](Gifs/LoseRes.gif) |
 
 ## 核心功能
 
@@ -45,14 +45,14 @@
 
 ## 📁 项目结构
 ```
-Source/PVZ/
-├── Characters/ # 角色类 (植物基类、僵尸基类)
-├── Player/ # 玩家控制器、状态管理
-├── GameModes/ # 游戏模式、游戏状态、关卡逻辑
-├── UI/ # UMG Widget
-├── Data/ # 数据表结构体定义
-├── Actors/ # 子弹、格子等游戏物体
-└── SaveGame/ # 存档系统逻辑
+Content/
+├── Map/             # 关卡相关资源（地图、数据等）
+├── Plant/           # 植物相关资源（蓝图、模型等）
+├── Player/          # 玩家相关资源
+├── Res/             # 资源文件（模型、材质、贴图等）
+├── Sound/           # 音效文件
+├── UI/              # UI 相关资源
+└── Zombie/          # 僵尸相关资源
 ```
 
 ## 🚀 快速开始
